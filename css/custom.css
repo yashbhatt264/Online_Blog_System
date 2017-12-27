@@ -1,0 +1,174 @@
+input[type=text],input[type=password],input[type=radio],input[type=chechbox],
+textarea,select,button
+{
+	margin:0;
+	padding:5px 5px;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	border:1px solid gray;
+	font-family:calibri !important;
+	box-shadow:2px 2px 2px #d1d1d1;
+	border-radius:5px;
+	color:gray;
+	font-size:15px !important;
+	width:80%;
+}
+input[type=button],input[type=submit],input[type=reset]
+{
+margin:0;
+	padding:5px 5px;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	border:1px solid gray;
+	font-family:calibri !important;
+	box-shadow:2px 2px 2px #d1d1d1;
+	border-radius:5px;
+	color:gray;
+	font-size:15px !important;
+}
+textarea{resize:none;}
+.register
+{
+	border:1px solid black;
+	margin-left:250px;
+	width:500px;
+	border-radius:15px;
+	background:#f1f1f1;
+	box-shadow:10px 10px 5px #888888;	
+}
+.contact
+{
+	border:1px solid black;
+	margin-left:250px;
+	width:500px;
+	border-radius:15px;
+	background:#f1f1f1;
+	box-shadow:10px 10px 5px #888888;
+}
+.login
+{
+	border:1px solid black;
+	margin-left:250px;
+	width:500px;
+	border-radius:15px;
+	background:#f1f1f1;
+	box-shadow:10px 10px 5px #888888;
+
+}
+
+
+/* Home Page */
+#song_list p
+{
+	width:120px;
+	height:230px;
+	padding:10px;
+	float:left;
+	margin:0 17px 17px 0;
+	background:#f9f9f9;
+	text-align:center;
+	font-family:calibri;
+	border-bottom:2px solid #e2e2e2;
+}
+#song_list p:hover
+{
+	background:#f3f3f3;
+	border-bottom:2px solid #a2a2a2;
+}
+#song_list p.last1
+{
+	margin: 0 0 17px 0;
+}
+#song_list .collection_title
+{
+	display:block;
+	color:#222;
+	font-size:1.1em;
+	line-height:15px;
+}
+#song_list .collection_stats
+{
+	display:block;
+	font-size:0.9em;
+	line-height:24px;
+}
+.box1
+{
+	border-bottom:2px dotted gray;
+	width:630px;;
+	height:40px;
+	background:#eeeeee;
+}
+
+/* Menu Icon */
+.home_icon
+{
+	background:url("../images/icons/home.png") no-repeat left center;
+	padding-left:30px;
+}
+
+.blog_icon
+{
+	background:url("../images/icons/content.png") no-repeat left center;
+	padding-left:30px;
+}
+
+.login_icon
+{
+	background:url("../images/icons/login.png") no-repeat left center;
+	padding-left:30px;
+}
+
+.reg_icon
+{
+	background:url("../images/icons/register.png") no-repeat left center;
+	padding-left:30px;
+}
+
+.about_icon
+{
+	background:url("../images/icons/fb.png") no-repeat left center;
+	padding-left:30px;
+}
+
+.contact_icon
+{
+	background:url("../images/icons/email_go.png") no-repeat left center;
+	padding-left:30px;
+}
+
+/* category icon */
+.cat_icon
+{
+	background:url("../images/icons/categories.png") no-repeat left center;
+	padding-left:40px;
+}
+
+.list_icon
+{
+	background:url("../images/icons/bullet_arrow.png") no-repeat left center;
+	padding-left:25px;
+}
+#menu li:hover
+{
+	background:#d1d1d1;
+}
+.width
+{
+	width:100%;
+}
+.login_width
+{
+	width:100%;
+}
+.font_size
+{
+	font-size:150%;
+}
+.vote_text {
+	color: maroon;
+	margin-right: 10px;
+	font-size: 30px;
+}

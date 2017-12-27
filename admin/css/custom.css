@@ -1,0 +1,92 @@
+input[type=text],input[type=password],input[type=radio],input[type=chechbox],
+input[type=button],input[type=submit],input[type=reset],textarea,select,button
+{
+	margin:0;
+	padding:5px 5px;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	border:1px solid gray;
+	font-family:calibri !important;
+	box-shadow:2px 2px 2px #d1d1d1;
+	border-radius:5px;
+	color:gray;
+	font-size:15px !important;
+	width:100%;
+}
+textarea{resize:none;}
+.register
+{
+	border:1px solid black;
+	margin-left:250px;
+	width:500px;
+	border-radius:15px;
+	background:#f1f1f1;
+	box-shadow:10px 10px 5px #888888;	
+}
+.contact
+{
+	border:1px solid black;
+	margin-left:250px;
+	width:500px;
+	border-radius:15px;
+	background:#f1f1f1;
+	box-shadow:10px 10px 5px #888888;
+}
+.login
+{
+	border:1px solid black;
+	margin-left:250px;
+	width:500px;
+	border-radius:15px;
+	background:#f1f1f1;
+	box-shadow:10px 10px 5px #888888;
+}
+
+
+/* Home Page */
+#song_list p
+{
+	width:120px;
+	height:210px;
+	padding:10px;
+	float:left;
+	margin:0 17px 17px 0;
+	background:#f9f9f9;
+	text-align:center;
+	font-family:calibri;
+	border-bottom:2px solid #e2e2e2;
+}
+#song_list p:hover
+{
+	background:#f3f3f3;
+	border-bottom:2px solid #a2a2a2;
+}
+#song_list p.last1
+{
+	margin: 0 0 17px 0;
+}
+#song_list .collection_title
+{
+	display:block;
+	color:#222;
+	font-size:1.1em;
+	line-height:15px;
+}
+#song_list .collection_stats
+{
+	display:block;
+	font-size:0.9em;
+	line-height:24px;
+}
+.box1
+{
+	border-bottom:2px dotted gray;
+	width:630px;;
+	height:40px;
+	background:#eeeeee;
+}
+.font_size
+{
+	font-size:150%;
+}

@@ -1,0 +1,1 @@
+<p>Copyright (c) 2014 onlineblogsystem.com. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://www.freecsstemplates.org/" rel="nofollow">Yash Bhatt</a>.</p>
